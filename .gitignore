@@ -1,0 +1,15 @@
+# Vivado project and run outputs
+.Xil/
+*.jou
+*.log
+*.str
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.bit
+
+# Python
+__pycache__/

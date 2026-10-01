@@ -1,0 +1,2 @@
+# Constraint files are Tcl syntax but not the point of this repo
+*.xdc linguist-detectable=false
